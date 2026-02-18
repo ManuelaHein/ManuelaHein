@@ -1,19 +1,4 @@
-# Elegant - Fullstack Developer
-
----
-
-
-<div align="center">
-
-  <br>
-
-  <img src="https://img.shields.io/badge/UX%2FUI-ECDED1?style=for-the-badge&logo=figma&logoColor=000000" />
-  <img src="https://img.shields.io/badge/Clean%20Code-ECDED1?style=for-the-badge&logo=codefactor&logoColor=000000" />
-  <img src="https://img.shields.io/badge/Vue.js-ECDED1?style=for-the-badge&logo=vue.js&logoColor=000000" />
-
-  <br><br>
-
-  <samp><b>[Manuela Hein]</b></samp>
+<samp><b>[Manuela Hein]</b></samp>
 
   <br><br>
 
